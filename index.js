@@ -1,10 +1,10 @@
  // Products
  const products = [
-    { id: 1, productCode: "Sunglass", pic: '<img src="./src/sunglass.jfif" width="200px", height="200px">', price: 100 },
-    { id: 2, productCode: "Shoe", pic: '<img src="./src/shoe.jfif" width="200px", height="200px">', price: 2000 },
-    { id: 3, productCode: "Watch", pic: '<img src="./src/watch.jfif" width="200px", height="200px">', price: 1500 },
-    { id: 4, productCode: "Lipstick", pic: '<img src="./src/lipstick.jfif" width="200px", height="200px">', price: 500 },
-    { id: 5, productCode: "Camera", pic: '<img src="./src/camera.jfif" width="200px", height="200px">', price: 5000 },
+    { id: 1, productCode: "Sunglass", pic: '<img src="./sunglass.jfif" width="200px", height="200px">', price: 100 },
+    { id: 2, productCode: "Shoe", pic: '<img src="./shoe.jfif" width="200px", height="200px">', price: 2000 },
+    { id: 3, productCode: "Watch", pic: '<img src="./watch.jfif" width="200px", height="200px">', price: 1500 },
+    { id: 4, productCode: "Lipstick", pic: '<img src="./lipstick.jfif" width="200px", height="200px">', price: 500 },
+    { id: 5, productCode: "Camera", pic: '<img src="./camera.jfif" width="200px", height="200px">', price: 5000 },
   ];
 
   // Generate Product List
